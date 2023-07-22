@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Frederic
 
-- 💼 Data Scientist at Roche where I primarily focus on Electronic Health Records and Medical Imaging analysis.
+- 💼 Machine Learning Engineer at Cerrion where I primarily focus on Computer Vision and Machine Learning Operations (MLOps).
 - 🎓 MSc in Robotics, Systems and Control at ETHZ where I specialized in Machine Learning for Computer Vision.
 - 🏠 Based in Zurich (🇨🇭 Switzerland)
